@@ -1,7 +1,11 @@
 {
-  "id": "21",
-  "fullName": "Charles West",
-  "birthday": "1982-06-07",
-  "diagnosisDate": "2002-03-01",
-  "aboutMe": "When I'm not working on designing beautiful websites, you can generally find me playing cricket. I love to travel, and have been on all continents at least once."
+  "userid": "21",
+  "profile": {
+    "fullName": "Charles West",
+    "patient": {
+      "birthday": "1982-06-07",
+      "diagnosisDate": "2002-03-01",
+      "about": "When I'm not working on designing beautiful websites, you can generally find me playing cricket. I love to travel, and have been on all continents at least once."
+    }
+  }
 }

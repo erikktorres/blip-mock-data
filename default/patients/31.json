@@ -1,6 +1,12 @@
 {
-  "id": "31",
-  "fullName": "Sarah Carter",
-  "birthday": "1999-07-03",
-  "diagnosisDate": "2009-08-01"
+  "userid": "31",
+  "profile": {
+    "fullName": "Sarah Carter",
+    "patient": {
+      "isOtherPerson": true,
+      "fullName": "Jessica Carter",
+      "birthday": "1999-07-03",
+      "diagnosisDate": "2009-08-01"
+    }
+  }
 }
