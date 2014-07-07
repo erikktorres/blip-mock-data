@@ -1,0 +1,29 @@
+[
+  {
+    "messagetext": "Good work",
+    "parentmessage": "tbd",
+    "timestamp": "2014-02-14T19:15:00+12:00",
+    "userid": "21",
+    "user":{"fullName":"Charles West"},
+    "groupid": "11",
+    "id": "af6bdfa4-1628-452a-8f07-feeae113b206"
+  },
+  {
+    "messagetext": "maybe you should double check??",
+    "parentmessage": "tbd",
+    "timestamp": "2014-02-14T22:07:00+12:00",
+    "userid": "31",
+    "user":{"fullName":"Sarah Carter"},
+    "groupid": "11",
+    "id": "feeae113b206-452a-452a-8f07-feeae113b206"
+  },
+  {
+    "messagetext": "Good points - thanks",
+    "parentmessage": "tdb",
+    "timestamp": "2014-02-14T22:07:00+12:00",
+    "userid": "11",
+    "user":{"fullName":"Mary Smith"},
+    "groupid": "11",
+    "id": "af6bdfa4-8f07-452a-8f07-af6bdfa4"
+  }
+]
