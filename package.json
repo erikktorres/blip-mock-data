@@ -1,6 +1,6 @@
 {
   "name": "blip-mock-data",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Mock data used for Blip development",
   "private": true,
   "repository": {
