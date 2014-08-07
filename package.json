@@ -3,6 +3,7 @@
   "version": "0.2.5",
   "description": "Mock data used for Blip development",
   "private": true,
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/tidepool-org/blip-mock-data.git"
