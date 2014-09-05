@@ -1,0 +1,13 @@
+{
+  "userid": "51",
+  "username": "elisabeth.strider@example.com",
+  "password": "test",
+  "emails": ["elisabeth.strider@example.com"],
+  "profile": {
+    "fullName": "Elisabeth Strider",
+    "birthday": "1985-03-21",
+    "patient": {
+      "diagnosisDate": "1994-01-28"
+    }
+  }
+}
