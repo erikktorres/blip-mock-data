@@ -17,7 +17,7 @@ module.exports = {
     '11': require('./patientdata/11.json')
   },
   messagethread: {
-    tbd: require('./messagethread/tbd.json')
+    '1141': require('./messagethread/1141.json')
   },
   messagenotes: {
     '11': require('./messagenotes/11.json')
