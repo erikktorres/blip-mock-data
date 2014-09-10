@@ -1,5 +1,8 @@
 {
   "userid": "21",
+  "username": "charles.west@example.com",
+  "password": "test",
+  "emails": ["charles.west@example.com"],
   "profile": {
     "fullName": "Charles West",
     "patient": {
