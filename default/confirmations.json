@@ -4,7 +4,7 @@
     "status": "pending",
     "userid": "11",
     "email": "demo",
-    "invitedBy": "51",
+    "creatorId": "51",
     "permissions": {
       "view": {}
     },
@@ -14,7 +14,7 @@
     "type": "invite",
     "status": "pending",
     "email": "henry.clark@example.com",
-    "invitedBy": "51",
+    "creatorId": "51",
     "permissions": {
       "view": {}
     },
