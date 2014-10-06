@@ -6,7 +6,7 @@
     "userid": "11",
     "email": "demo",
     "creatorId": "51",
-    "permissions": {
+    "context": {
       "view": {}
     },
     "token": "123dem"
@@ -17,7 +17,7 @@
     "status": "pending",
     "email": "henry.clark@example.com",
     "creatorId": "51",
-    "permissions": {
+    "context": {
       "view": {}
     },
     "token": "123hen"
