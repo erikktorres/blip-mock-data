@@ -1,5 +1,4 @@
 module.exports = {
-  defaultUserId: '11',
   users: {
     '11': require('./users/11.json'),
     '21': require('./users/21.json'),
