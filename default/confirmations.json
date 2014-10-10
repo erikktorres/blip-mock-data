@@ -7,7 +7,8 @@
     "email": "demo",
     "creatorId": "51",
     "context": {
-      "view": {}
+      "view": {},
+      "note": {}
     },
     "token": "123dem"
   },
@@ -18,7 +19,8 @@
     "email": "henry.clark@example.com",
     "creatorId": "51",
     "context": {
-      "view": {}
+      "view": {},
+      "note": {}
     },
     "token": "123hen"
   },
@@ -29,7 +31,8 @@
     "email": "gregory.jones@example.com",
     "creatorId": "11",
     "context": {
-      "view": {}
+      "view": {},
+      "note": {}
     },
     "token": "123greg"
   }
