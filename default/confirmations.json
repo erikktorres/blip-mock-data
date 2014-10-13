@@ -1,6 +1,6 @@
 [
   {
-    "key": "901",
+    "key": "abc901",
     "type": "invite",
     "status": "pending",
     "userid": "11",
@@ -9,11 +9,10 @@
     "context": {
       "view": {},
       "note": {}
-    },
-    "token": "123dem"
+    }
   },
   {
-    "key": "902",
+    "key": "abc902",
     "type": "invite",
     "status": "pending",
     "email": "henry.clark@example.com",
@@ -21,11 +20,10 @@
     "context": {
       "view": {},
       "note": {}
-    },
-    "token": "123hen"
+    }
   },
   {
-    "key": "903",
+    "key": "abc903",
     "type": "invite",
     "status": "pending",
     "email": "gregory.jones@example.com",
@@ -33,7 +31,6 @@
     "context": {
       "view": {},
       "note": {}
-    },
-    "token": "123greg"
+    }
   }
 ]
