@@ -5,8 +5,8 @@
   "emails": ["gregory.jones@example.com"],
   "profile": {
     "fullName": "Gregory Jones",
-    "birthday": "1997-02-01",
     "patient": {
+      "birthday": "1997-02-01",
       "diagnosisDate": "2008-01-01",
       "about": "Loves to play the guitar. Biggest challenge is managing diabetes while in school or with friends."
     }
