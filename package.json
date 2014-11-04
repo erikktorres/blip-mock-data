@@ -1,6 +1,6 @@
 {
   "name": "blip-mock-data",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "description": "Mock data used for Blip development",
   "private": true,
   "main": "index.js",
