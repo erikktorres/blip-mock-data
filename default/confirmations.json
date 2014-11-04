@@ -1,7 +1,7 @@
 [
   {
     "key": "abc901",
-    "type": "invite",
+    "type": "group_invitation",
     "status": "pending",
     "userid": "11",
     "email": "demo",
@@ -13,7 +13,7 @@
   },
   {
     "key": "abc902",
-    "type": "invite",
+    "type": "group_invitation",
     "status": "pending",
     "email": "henry.clark@example.com",
     "creatorId": "51",
@@ -24,7 +24,7 @@
   },
   {
     "key": "abc903",
-    "type": "invite",
+    "type": "group_invitation",
     "status": "pending",
     "email": "gregory.jones@example.com",
     "creatorId": "11",
@@ -32,5 +32,12 @@
       "view": {},
       "note": {}
     }
+  },
+  {
+    "key": "def801",
+    "type": "password_reset",
+    "status": "pending",
+    "email": "mary.smith@example.com",
+    "userid": "11"
   }
 ]
